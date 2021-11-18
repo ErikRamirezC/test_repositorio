@@ -1,0 +1,17 @@
+commit 9470b8afc3b3dda634b5647e20ee5969d6c65971
+Author: Luis Erik Ramirez <erik.ramirez@prime-time.mx>
+Date:   Thu Nov 18 17:21:09 2021 -0600
+
+    Agregue una linea en Mundo.txt
+
+commit 64f1c212f0a43982cf6c15dd8b3195ede308823e
+Author: Luis Erik Ramirez <erik.ramirez@prime-time.mx>
+Date:   Thu Nov 18 17:19:39 2021 -0600
+
+    Agregamos Undo.txt
+
+commit 46d7cbc202fe18aa8ddcd18571d5fb8742c14174
+Author: Luis Erik Ramirez <erik.ramirez@prime-time.mx>
+Date:   Thu Nov 18 17:17:00 2021 -0600
+
+    Agregamos todos los archivos
